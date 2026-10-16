@@ -12,76 +12,82 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Riena =====
-[1]Riena       |09:33:03 | 15-10-2026| login OK @grienaa | score=1190 rank=5286
-[1]Riena       |09:33:03 | 15-10-2026| serverTime=2026-10-15T09:33:03.000Z local=2026-10-15T09:33:03.920Z
+[1]Riena       |12:52:43 | 16-10-2026| login OK @grienaa | score=1260 rank=5044
+[1]Riena       |12:52:43 | 16-10-2026| serverTime=2026-10-16T12:52:43.000Z local=2026-10-16T12:52:43.969Z
 --> [1]Riena menjalankan: Claim Daily
-[1]Riena       |09:33:05 | 15-10-2026| daily: OK +10 poin score=1200
---> [1]Riena menjalankan: Auto All Tasks (6 pending)
-[1]Riena       |09:33:10 | 15-10-2026| [1/6] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/grienaa/status/2110664866595825207
-[1]Riena       |09:33:10 | 15-10-2026| delay 10s...
-[1]Riena       |09:33:22 | 15-10-2026| [2/6] 3e6dc4ef (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/grienaa/status/2110664821602272774
-[1]Riena       |09:33:22 | 15-10-2026| delay 10s...
-[1]Riena       |09:33:34 | 15-10-2026| [3/6] ec8513a4 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109
-[1]Riena       |09:33:34 | 15-10-2026| delay 10s...
-[1]Riena       |09:33:46 | 15-10-2026| [4/6] 1e029da8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/grienaa/status/2110665018240320353
-[1]Riena       |09:33:46 | 15-10-2026| delay 10s...
-[1]Riena       |09:33:58 | 15-10-2026| [5/6] e41210a5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/grienaa/status/2110665145848135187
-[1]Riena       |09:33:58 | 15-10-2026| delay 10s...
-[1]Riena       |09:34:11 | 15-10-2026| [6/6] 6ee55c06 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/grienaa/status/2110665217524392585
-[1]Riena       |09:34:11 | 15-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Riena       |09:34:12 | 15-10-2026| [1/1] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174412101091 | proof=https://x.com/grienaa/status/2110665269381460880
+[1]Riena       |12:52:45 | 16-10-2026| daily: OK +10 poin score=1270
+--> [1]Riena menjalankan: Auto All Tasks (9 pending)
+[1]Riena       |12:52:47 | 16-10-2026| [1/9] 6d074078 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/grienaa/status/2111077397799656536
+[1]Riena       |12:52:47 | 16-10-2026| delay 10s...
+[1]Riena       |12:52:59 | 16-10-2026| [2/9] 394defc6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/grienaa/status/2111077445017548488
+[1]Riena       |12:52:59 | 16-10-2026| delay 10s...
+[1]Riena       |12:53:12 | 16-10-2026| [3/9] e5b8202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/grienaa/status/2111077585401300550
+[1]Riena       |12:53:12 | 16-10-2026| delay 10s...
+[1]Riena       |12:53:25 | 16-10-2026| [4/9] 0609cffc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/grienaa/status/2111077757098628616
+[1]Riena       |12:53:25 | 16-10-2026| delay 10s...
+[1]Riena       |12:53:38 | 16-10-2026| [5/9] 88c776e0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/grienaa/status/2111077648682547170
+[1]Riena       |12:53:38 | 16-10-2026| delay 10s...
+[1]Riena       |12:53:52 | 16-10-2026| [6/9] dd482b1c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/grienaa/status/2111077531883671714
+[1]Riena       |12:53:52 | 16-10-2026| delay 10s...
+[1]Riena       |12:54:05 | 16-10-2026| [7/9] 8f50de21 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/grienaa/status/2111077728487000832
+[1]Riena       |12:54:05 | 16-10-2026| delay 10s...
+[1]Riena       |12:54:17 | 16-10-2026| [8/9] 24fb0a1f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/grienaa/status/2111077712150281792
+[1]Riena       |12:54:17 | 16-10-2026| delay 10s...
+[1]Riena       |12:54:30 | 16-10-2026| [9/9] f482983d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/grienaa/status/2111077840623310523
+[1]Riena       |12:54:30 | 16-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Riena       |12:54:33 | 16-10-2026| [1/1] 6d074078 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110998758834286 | proof=https://x.com/grienaa/status/2111077849835696288
 --> [1]Riena menjalankan: Watch Anime
-[1]Riena       |09:34:13 | 15-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Riena       |09:34:13 | 15-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Riena       |12:54:34 | 16-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Riena       |12:54:34 | 16-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Riena       |09:34:15 | 15-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Riena       |09:34:20 | 15-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Riena       |09:34:21 | 15-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Riena       |09:34:26 | 15-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Riena       |09:34:28 | 15-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Riena       |12:54:36 | 16-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Riena       |12:54:41 | 16-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Riena       |12:54:43 | 16-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Riena       |12:54:48 | 16-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Riena       |12:54:50 | 16-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Riena menjalankan: Read Article
-[1]Riena       |09:34:29 | 15-10-2026| news: 25/26 artikel selesai dibaca
-[1]Riena       |09:34:31 | 15-10-2026| mint eligibility: {"userId":"1620927299393822720","youtube":{"url":"https://www.youtube.com/@griena","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady"
-[1]Riena       |09:34:37 | 15-10-2026| news [1/1] 100-friends-connected-by-what-we-love: OK completed=26
+[1]Riena       |12:54:52 | 16-10-2026| news: 26/27 artikel selesai dibaca
+[1]Riena       |12:54:53 | 16-10-2026| mint eligibility: {"userId":"1620927299393822720","youtube":{"url":"https://www.youtube.com/@griena","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady"
+[1]Riena       |12:55:00 | 16-10-2026| news [1/1] smart-pocket-800000-battles: OK completed=27
 --> [1]Riena menjalankan: Quiz Anime
-[1]Riena       |09:34:40 | 15-10-2026| quiz ep1: sudah dijawab
-[1]Riena       |09:34:40 | 15-10-2026| quiz ep2: sudah dijawab
-[1]Riena       |09:34:40 | 15-10-2026| quiz ep3: sudah dijawab
-[1]Riena       |09:34:40 | 15-10-2026| quiz ep4: sudah dijawab
-[1]Riena       |09:34:40 | 15-10-2026| quiz ep5: sudah dijawab
-[1]Riena       |09:34:40 | 15-10-2026| quiz ep6: sudah dijawab
+[1]Riena       |12:55:03 | 16-10-2026| quiz ep1: sudah dijawab
+[1]Riena       |12:55:03 | 16-10-2026| quiz ep2: sudah dijawab
+[1]Riena       |12:55:03 | 16-10-2026| quiz ep3: sudah dijawab
+[1]Riena       |12:55:03 | 16-10-2026| quiz ep4: sudah dijawab
+[1]Riena       |12:55:03 | 16-10-2026| quiz ep5: sudah dijawab
+[1]Riena       |12:55:03 | 16-10-2026| quiz ep6: sudah dijawab
 --> [1]Riena menjalankan: Music Missions (realtime, bisa lama!)
-[1]Riena       |09:34:42 | 15-10-2026| music: kedua misi sudah tercapai, stop
-[1]Riena       |09:34:43 | 15-10-2026| mission music-listens-10: sudah diklaim
-[1]Riena       |09:34:43 | 15-10-2026| mission music-minutes-30: sudah diklaim
-[1]Riena       |09:34:43 | 15-10-2026| mission anime-completed-3: sudah diklaim
+[1]Riena       |12:55:05 | 16-10-2026| music: kedua misi sudah tercapai, stop
+[1]Riena       |12:55:06 | 16-10-2026| mission music-listens-10: sudah diklaim
+[1]Riena       |12:55:06 | 16-10-2026| mission music-minutes-30: sudah diklaim
+[1]Riena       |12:55:06 | 16-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Riena menjalankan: Claim Missions
-[1]Riena       |09:34:43 | 15-10-2026| mission music-listens-10: sudah diklaim
-[1]Riena       |09:34:43 | 15-10-2026| mission music-minutes-30: sudah diklaim
-[1]Riena       |09:34:43 | 15-10-2026| mission anime-completed-3: sudah diklaim
+[1]Riena       |12:55:06 | 16-10-2026| mission music-listens-10: sudah diklaim
+[1]Riena       |12:55:06 | 16-10-2026| mission music-minutes-30: sudah diklaim
+[1]Riena       |12:55:06 | 16-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Riena menjalankan: Check Eligibility
 
 --- eligibility [1]Riena ---
-  @grienaa | score=1190 rank=5286
-  tasks    [##################--] 72/78
+  @grienaa | score=1260 rank=5044
+  tasks    [##################--] 75/84
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 26/26
+  artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Riena menjalankan: Read Manga
-[1]Riena       |09:34:48 | 15-10-2026| manga: 0/13 chapter belum completed
+[1]Riena       |12:55:11 | 16-10-2026| manga: 0/13 chapter belum completed
 --> [1]Riena menjalankan: Get Gift
-[1]Riena       |09:34:48 | 15-10-2026| gift: 0/4 belum diterima
+[1]Riena       |12:55:12 | 16-10-2026| gift: 0/4 belum diterima
 --> [1]Riena menjalankan: Setup Profile
-[1]Riena       |09:34:49 | 15-10-2026| profile: bio="https://x.com/grienaa" fav=amato rewardAt=1791682055
-[1]Riena       |09:34:49 | 15-10-2026| profile: bonus sudah diklaim, skip
+[1]Riena       |12:55:12 | 16-10-2026| profile: bio="https://x.com/grienaa" fav=amato rewardAt=1791682055
+[1]Riena       |12:55:12 | 16-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Riena menjalankan: Bind Wallet
-[1]Riena       |09:34:49 | 15-10-2026| wallet: sudah terikat HFzmqo2byS... (solana)
+[1]Riena       |12:55:13 | 16-10-2026| wallet: sudah terikat HFzmqo2byS... (solana)
 
 == RINGKASAN ==
-- Riena: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Riena: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
