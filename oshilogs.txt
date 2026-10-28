@@ -12,45 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Riena =====
-[1]Riena       |10:17:25 | 27-10-2026| login OK @grienaa | score=2230 rank=3479
-[1]Riena       |10:17:25 | 27-10-2026| serverTime=2026-10-27T10:17:25.000Z local=2026-10-27T10:17:25.600Z
+[1]Riena       |11:09:24 | 28-10-2026| login OK @grienaa | score=2300 rank=3412
+[1]Riena       |11:09:24 | 28-10-2026| serverTime=2026-10-28T11:09:24.000Z local=2026-10-28T11:09:24.272Z
 --> [1]Riena menjalankan: Claim Daily
-[1]Riena       |10:17:26 | 27-10-2026| daily: OK +10 poin score=2240
+[1]Riena       |11:09:25 | 28-10-2026| daily: OK +10 poin score=2310
 --> [1]Riena menjalankan: Auto All Tasks (6 pending)
-[1]Riena       |10:17:28 | 27-10-2026| [1/6] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/grienaa/status/2115024765268589381
-[1]Riena       |10:17:28 | 27-10-2026| delay 10s...
-[1]Riena       |10:17:40 | 27-10-2026| [2/6] 0c0c4157 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/grienaa/status/2115024633836862754
-[1]Riena       |10:17:40 | 27-10-2026| delay 10s...
-[1]Riena       |10:17:51 | 27-10-2026| [3/6] affba66c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/grienaa/status/2115024583456102667
-[1]Riena       |10:17:51 | 27-10-2026| delay 10s...
-[1]Riena       |10:18:04 | 27-10-2026| [4/6] 3a506cad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/grienaa/status/2115024623806563313
-[1]Riena       |10:18:04 | 27-10-2026| delay 10s...
-[1]Riena       |10:18:16 | 27-10-2026| [5/6] 6c6d6f6f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/grienaa/status/2115024784288481906
-[1]Riena       |10:18:16 | 27-10-2026| delay 10s...
-[1]Riena       |10:18:28 | 27-10-2026| [6/6] f12f3018 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/grienaa/status/2115024817703779147
-[1]Riena       |10:18:28 | 27-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Riena       |10:18:29 | 27-10-2026| [1/1] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114962790477967 | proof=https://x.com/grienaa/status/2115024952755857856
+[1]Riena       |11:09:26 | 28-10-2026| [1/6] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/grienaa/status/2115400243115222411
+[1]Riena       |11:09:26 | 28-10-2026| delay 10s...
+[1]Riena       |11:09:38 | 28-10-2026| [2/6] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/grienaa/status/2115400203181491445
+[1]Riena       |11:09:38 | 28-10-2026| delay 10s...
+[1]Riena       |11:09:49 | 28-10-2026| [3/6] 1c315c65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/grienaa/status/2115400372927359881
+[1]Riena       |11:09:49 | 28-10-2026| delay 10s...
+[1]Riena       |11:10:01 | 28-10-2026| [4/6] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/grienaa/status/2115400060909977889
+[1]Riena       |11:10:01 | 28-10-2026| delay 10s...
+[1]Riena       |11:10:12 | 28-10-2026| [5/6] 3f7b08ea (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/grienaa/status/2115400382188112664
+[1]Riena       |11:10:12 | 28-10-2026| delay 10s...
+[1]Riena       |11:10:24 | 28-10-2026| [6/6] 84429acd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/grienaa/status/2115400296280347883
+[1]Riena       |11:10:24 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Riena       |11:10:26 | 28-10-2026| [1/1] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115392140092317 | proof=https://x.com/grienaa/status/2115400300357047297
 --> [1]Riena menjalankan: Watch Anime
-[1]Riena       |10:18:30 | 27-10-2026| watch: semua video sudah completed
+[1]Riena       |11:10:27 | 28-10-2026| watch: semua video sudah completed
 --> [1]Riena menjalankan: Read Article
-[1]Riena       |10:18:31 | 27-10-2026| news: 30/30 artikel selesai dibaca
-[1]Riena       |10:18:32 | 27-10-2026| mint eligibility: {"userId":"1620927299393822720","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@griena","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nul
-[1]Riena       |10:18:32 | 27-10-2026| news: semua artikel sudah dibaca
+[1]Riena       |11:10:28 | 28-10-2026| news: 30/30 artikel selesai dibaca
+[1]Riena       |11:10:29 | 28-10-2026| mint eligibility: {"userId":"1620927299393822720","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@griena","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nul
+[1]Riena       |11:10:29 | 28-10-2026| news: semua artikel sudah dibaca
 --> [1]Riena menjalankan: Quiz Anime
 --> [1]Riena menjalankan: Music Missions (realtime, bisa lama!)
-[1]Riena       |10:18:34 | 27-10-2026| music: kedua misi sudah tercapai, stop
-[1]Riena       |10:18:35 | 27-10-2026| mission music-listens-10: sudah diklaim
-[1]Riena       |10:18:35 | 27-10-2026| mission music-minutes-30: sudah diklaim
-[1]Riena       |10:18:35 | 27-10-2026| mission anime-completed-3: sudah diklaim
+[1]Riena       |11:10:31 | 28-10-2026| music: kedua misi sudah tercapai, stop
+[1]Riena       |11:10:31 | 28-10-2026| mission music-listens-10: sudah diklaim
+[1]Riena       |11:10:31 | 28-10-2026| mission music-minutes-30: sudah diklaim
+[1]Riena       |11:10:31 | 28-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Riena menjalankan: Claim Missions
-[1]Riena       |10:18:35 | 27-10-2026| mission music-listens-10: sudah diklaim
-[1]Riena       |10:18:35 | 27-10-2026| mission music-minutes-30: sudah diklaim
-[1]Riena       |10:18:35 | 27-10-2026| mission anime-completed-3: sudah diklaim
+[1]Riena       |11:10:32 | 28-10-2026| mission music-listens-10: sudah diklaim
+[1]Riena       |11:10:32 | 28-10-2026| mission music-minutes-30: sudah diklaim
+[1]Riena       |11:10:32 | 28-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Riena menjalankan: Check Eligibility
 
 --- eligibility [1]Riena ---
-  @grienaa | score=2230 rank=3479
-  tasks    [############--------] 9/15
+  @grienaa | score=2300 rank=3412
+  tasks    [#############-------] 11/17
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -61,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Riena menjalankan: Read Manga
-[1]Riena       |10:18:39 | 27-10-2026| manga: 0/13 chapter belum completed
+[1]Riena       |11:10:35 | 28-10-2026| manga: 0/13 chapter belum completed
 --> [1]Riena menjalankan: Get Gift
-[1]Riena       |10:18:40 | 27-10-2026| gift: 0/4 belum diterima
+[1]Riena       |11:10:36 | 28-10-2026| gift: 1/5 belum diterima
+[1]Riena       |11:10:37 | 28-10-2026| gift [1/1] Oshii animated GIFs: OK
 --> [1]Riena menjalankan: Setup Profile
-[1]Riena       |10:18:40 | 27-10-2026| profile: bio="https://x.com/grienaa" fav=amato rewardAt=1791682055
-[1]Riena       |10:18:40 | 27-10-2026| profile: bonus sudah diklaim, skip
+[1]Riena       |11:10:39 | 28-10-2026| profile: bio="https://x.com/grienaa" fav=amato rewardAt=1791682055
+[1]Riena       |11:10:39 | 28-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Riena menjalankan: Bind Wallet
-[1]Riena       |10:18:41 | 27-10-2026| wallet: sudah terikat HFzmqo2byS... (solana)
+[1]Riena       |11:10:40 | 28-10-2026| wallet: sudah terikat HFzmqo2byS... (solana)
 
 == RINGKASAN ==
-- Riena: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Riena: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/5 diterima | profile - | wallet bound | mint req=false open=false
